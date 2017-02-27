@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\src\\main\\res\\drawable\\loading.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_login.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\src\\main\\res\\drawable\\bg_login.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_btn_orange_self_disable.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\src\\main\\res\\drawable\\round_btn_orange_self_disable.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_platform_cell_back.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_platform_cell_back.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_btn_green_self_disable.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\src\\main\\res\\drawable\\round_btn_green_self_disable.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_btn_green_tk_click.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\src\\main\\res\\drawable\\round_btn_green_tk_click.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_check.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\src\\main\\res\\drawable\\selector_check.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xlistview_footer_icon.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\src\\main\\res\\drawable\\xlistview_footer_icon.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_switch.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\src\\main\\res\\drawable\\btn_switch.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\imageview_btn_selector.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\src\\main\\res\\drawable\\imageview_btn_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_item_home_bg.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\src\\main\\res\\drawable\\selector_item_home_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_divider.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\src\\main\\res\\drawable\\list_divider.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_loading.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\src\\main\\res\\drawable\\dialog_loading.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_myself.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\src\\main\\res\\drawable\\bg_myself.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_round_background_whitee.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\src\\main\\res\\drawable\\edittext_round_background_whitee.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orange_selector.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\src\\main\\res\\drawable\\orange_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_btn_orange_self_selector.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\src\\main\\res\\drawable\\round_btn_orange_self_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_btn_green_tk_selector.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\src\\main\\res\\drawable\\round_btn_green_tk_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_more.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\src\\main\\res\\drawable\\bg_more.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_progressbar.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_progressbar.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_btn_orange_self_normal.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\src\\main\\res\\drawable\\round_btn_orange_self_normal.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\leak_canary_toast_background.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\drawable\\leak_canary_toast_background.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pwd_switch.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\src\\main\\res\\drawable\\pwd_switch.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_btn_orange_self_click.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\src\\main\\res\\drawable\\round_btn_orange_self_click.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xlistview_header_icon.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\src\\main\\res\\drawable\\xlistview_header_icon.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_btn_green_tk_normal.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\src\\main\\res\\drawable\\round_btn_green_tk_normal.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_surrounding.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\src\\main\\res\\drawable\\bg_surrounding.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_home.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\src\\main\\res\\drawable\\bg_home.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    }
+]

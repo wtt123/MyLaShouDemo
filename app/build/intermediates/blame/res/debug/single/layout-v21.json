@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\layout_home_footer.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\src\\main\\res\\layout-v21\\layout_home_footer.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\item_single.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\src\\main\\res\\layout-v21\\item_single.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\fragment_more.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\src\\main\\res\\layout-v21\\fragment_more.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\fragment_surrounding.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\src\\main\\res\\layout-v21\\fragment_surrounding.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\fragment_home.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\src\\main\\res\\layout-v21\\fragment_home.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\view_movie.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\src\\main\\res\\layout-v21\\view_movie.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\item_right.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\src\\main\\res\\layout-v21\\item_right.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\view_home_other.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\src\\main\\res\\layout-v21\\view_home_other.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\item_home.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\src\\main\\res\\layout-v21\\item_home.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\tab_item.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\src\\main\\res\\layout-v21\\tab_item.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\fragment_me.xml",
+        "source": "G:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\src\\main\\res\\layout-v21\\fragment_me.xml"
+    }
+]

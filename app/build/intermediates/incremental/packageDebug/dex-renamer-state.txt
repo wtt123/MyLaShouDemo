@@ -1,0 +1,7 @@
+#Sat Feb 18 15:34:12 CST 2017
+base.0=G\:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d9f1872db533d794b812d6d2ce60f61ce6b99196
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=G\:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e51a115443b3cf5479afc710f7f1c2ea20c1ea43\\classes.dex
+base.1=G\:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e51a115443b3cf5479afc710f7f1c2ea20c1ea43
+file.0=G\:\\AndroidStudioProjects\\MyLaShouDemo\\MyLaShouDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d9f1872db533d794b812d6d2ce60f61ce6b99196\\classes.dex

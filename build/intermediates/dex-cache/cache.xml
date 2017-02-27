@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-1.0.1_2338098ab910cfe4e009d34f4494eedfd2aa4215\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\libs\ShareSDK-QZone-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c48f8a9e697255a38a0b16842b307fcf2e0fe1b1">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-QZone-2.8.0_834474f3ab6d02bbe6ff75129e17a99c74665b3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidsdk_studio\androidsdk\androidsdk\androidsdk\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_7610f960c9d0916e8efdd1b0f976231f368dedd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="49b7ddd9d61453e4b4c0f3b9ef3c6a3f96457e9c">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e51a115443b3cf5479afc710f7f1c2ea20c1ea43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_1614f9334838448ac24632071444cc85a0daa340\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-base-1.0.1_b2c42009bdb5a15039a8526d56d4256995d41a94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-watcher\1.5\288101b16513158c2923ad3fb6161d1452b65e73\leakcanary-watcher-1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="288101b16513158c2923ad3fb6161d1452b65e73">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\leakcanary-watcher-1.5_34a203fec755c3a4cf8b68e6158267ab4379fd5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\libs\ShareSDK-Wechat-Favorite-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f87b958a80464686534d4cd2a823f24013f3d6a6">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-Favorite-2.8.0_60d3d629d8da28d3605122a8893a2af5e7cb1229\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fbcore-1.0.1_c4b1e5b1e184d76124b34aa32b021a1eba225628\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_135b8743bc04ec146086a49f11b1c7ed2a952664\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\libs\ShareSDK-TencentWeibo-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8fe159f62dd077eba391e698fd46cab1138e6f2f">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-TencentWeibo-2.8.0_9eaf3a6a7b1c1159e628a52305f806321f65c064\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\libs\ShareSDK-QQ-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c3277831e53b1ee429bbfae0bf31a11d342f3a62">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-QQ-2.8.0_7f0095f326c181ccf32ee95208adc037c05c938e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_59f63389901fd4ec9ef39097c573533e63f5dce0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_1b9274ac300ce58a8ce449ac4d0f6efbcbb99f98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fresco-1.0.1_89601b75da0d41e0bc276059510768defe1c96ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\eventbus-3.0.0_338198e230e883acd6c9c82ca46ba5fc3096755c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\libs\MobCommons-2016.1222.1756.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6c70be90d61b9248814972afbb3a93b448c8cba5">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\MobCommons-2016.1222.1756_97380223c60f523e531bb3d43e8b164f8fc7835a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\exploded-aar\com.yolanda.nohttp\nohttp\1.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7c88ea064071370129dc785122ec87d1fb25e0dd">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.yolanda.nohttp-nohttp-1.1.0_87c0e8db368a6f20cc32a031d74b52dd82c80677\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\libs\ShareSDK-SinaWeibo-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0591b77be963ef98d6a3f2963624264a1071b36c">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-SinaWeibo-2.8.0_d22bbaa97a35898cf616ad63d477ee9e8304b1d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\libs\ShareSDK-Core-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6e9280ac9c4af8ddf414a5a1ccaf9d113841b3f8">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Core-2.8.0_13152f76b42d5ce5ca48632594250daf84a101a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.4.1\63994437f62bc861bc20c605d12962f7246116d1\okhttp-urlconnection-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-urlconnection-3.4.1_8c53f11782c30ceeab64a97cd78f9c7aa80afcf8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\exploded-aar\com.github.chrisbanes.photoview\library\1.2.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="98b5309c8d368a7c83ca5f90e0c905044c195edd">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.chrisbanes.photoview-library-1.2.4_ed96efb3525490337b52c3825c274415f4aceb9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_a3a718343956c6e4d917a53a4fdd4a4dc134cda5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.haha\haha\2.0.3\640a438d2d415c056ca6a673ac26b183b044e160\haha-2.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="640a438d2d415c056ca6a673ac26b183b044e160">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\haha-2.0.3_02c885a6c8edb0ef36625a4d869b76ce170a5c46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\libs\ShareSDK-Wechat-Moments-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bfde3133a50ea48791f3dfaaec53f2554b349c13">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-Moments-2.8.0_aad0c9fa654f8a3fbcb9fc9387e954bd39b3481c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_c64325f78a24c085b700c554244dc03fa6bc6a89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-drawee-1.0.1_fd4f8e98e2b651e771029cc655511fc2da302a2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="eccaae37b1e3a42c50a1b02c225f726aebafd792">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d9f1872db533d794b812d6d2ce60f61ce6b99196\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-analyzer\1.5\3277b0b0c2ace34a2edb5ddf9d1f67829561fb8f\leakcanary-analyzer-1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3277b0b0c2ace34a2edb5ddf9d1f67829561fb8f">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\leakcanary-analyzer-1.5_1c9538df116ffddb5272c7355d65a1d2955ff7ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\exploded-aar\com.alipay.euler\andfix\0.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1de293ae438f1031f515cb12dd8dfeb011f554c0">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.alipay.euler-andfix-0.3.1_62a0edcbe003710281dafee2f4fd0b0a0a205efe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d4ab8678882571a0a6f19c47a826ecbce5b4f42b">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.1.0_6a2785e47f03d26c82e89e9d18d75beebd6dad6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_1f31359020c4146d221df43f3d9bb599d03798c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.0_eca52502deb48db964b5e6d39d16c5eaa7bb0998\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\libs\BaiduLBS_Android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7bff0dcd9a64074f324dd11be10efb68b92ae2fb">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\BaiduLBS_Android_42c310083e6d4fca08212aa99cc5db4ca71c56ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\libs\MobTools-2016.1222.1756.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea93b627c5c5dc8b68a00ee34ac49af67015cec4">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\MobTools-2016.1222.1756_342d4a4a018c39abad2035fdec1ac35c607bac9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_1ec6ee8d663c8de20c2e367ebd1fbe2e5e83267c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_db0545b090bbd931e1cf6e43202e038727277a7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c7a2672b3122b897a0751f327929ae405ea02bf7">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.squareup.leakcanary-leakcanary-android-1.5_2dbe9445768aba374b2eac35cc4e4c4d760df804\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.1.0\d6854f42bfb4098d3d2358d93201307b9f1cc95d\butterknife-annotations-8.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d6854f42bfb4098d3d2358d93201307b9f1cc95d">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.1.0_aeb99314c09e0fb69e42caa74095952585e86ea3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\libs\ShareSDK-Wechat-Core-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6d080e6521d4e4a323cef0553631254721ca6ba6">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-Core-2.8.0_f715ee5d13ab570c8457f644e65101dcea3f69da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\libs\ShareSDK-Wechat-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e5ea4582ea3c1342818cea8bd72303020a2e950f">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-2.8.0_0911f685502bb90ac933622a7df8135919b66506\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\exploded-aar\com.yanzhenjie.nohttp\okhttp\1.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fb2299ab31977b52a633f703488b1b9cb973dda6">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.yanzhenjie.nohttp-okhttp-1.1.0_7a0b960c5c6b3e28bfb1a966282a8a343301d579\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="G:\AndroidStudioProjects\MyLaShouDemo\MyLaShouDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_abb20e56e351e72067d6632d65fca9440121e071\classes.dex" />
+    </item>
+
+</items>
